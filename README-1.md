@@ -73,17 +73,6 @@ I approach development with a **product-oriented mindset** — focused on writin
 
 <br/>
 
-## 🤖 AI / ML — Current Learning
-
-| Domain | Level | Details |
-|---|---|---|
-| AI/ML Fundamentals | Learning | Exploring core concepts and fundamentals |
-| Machine Learning | Learning | Building foundational understanding |
-| AI Tools | Exploring | Exploring practical AI tools and workflows |
-| Applied AI | Exploring | Interested in integrating AI into software applications |
-
-> 📌 I'm at the early stages of my AI/ML journey — this section reflects ongoing learning, not professional experience.
-
 <br/>
 
 ## 🚀 Featured Projects
