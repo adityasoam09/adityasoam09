@@ -29,27 +29,13 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/code.gif"/>
+I'm *Aditya Soam, a BCA graduate (2026) currently pursuing my **MCA, with a growing focus on **Java Full Stack Development. My core interests lie in building practical, responsive web applications using **Java, React, and JavaScript, backed by solid fundamentals in **SQL* and version control with *Git/GitHub*.
 
-yaml
-aditya:
-  degree:
-  bca: "Completed 2026"
-  mca: "Currently Pursuing"
-  role: "Java Full Stack Developer"
-  stack: ["Java", "Spring Boot", "React.js", "REST APIs", "SQL/MySQL"]
-  focus: "Building scalable, real-world full stack applications"
-  mindset: "Learn deeply. Build constantly. Ship proudly."
+I enjoy working across the stack — from crafting clean, responsive frontends with React and modern CSS, to exploring backend concepts with Java and REST APIs. I'm currently deepening my backend knowledge by *learning Spring Boot*, with the goal of becoming a well-rounded Java Full Stack Developer.
 
+I approach development with a *product-oriented mindset* — focused on writing functional, maintainable code and continuously learning new tools and technologies to build better applications.
 
-- 🎓 Completed *BCA in 2026, currently pursuing **MCA*
-- 💻 Focused on *Java Full Stack Development*
-- ⚛️ Building modern UIs with *React.js*
-- 🌱 Backend engineering with *Spring Boot & REST APIs*
-- 🗄️ Comfortable with *SQL / MySQL* database design
-- 🚀 Passionate about turning ideas into *production-ready applications*
-
-<br clear="right"/>
+<div align="center">
 
 ### 🎯 Open To
 
