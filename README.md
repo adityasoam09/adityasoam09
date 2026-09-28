@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=About%20Me&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🧑🏿‍💻About%20Me&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <p align="center">
   <b>Hi, I'm Aditya Soam 👋</b><br/>
@@ -58,6 +58,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🎯Open%20To&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<br/>
+
 
 ![Java Developer](https://img.shields.io/badge/-Java%20Developer-7C3AED?style=flat-square)
 ![Java Full Stack](https://img.shields.io/badge/-Java%20Full%20Stack%20Developer-7C3AED?style=flat-square)
@@ -72,8 +74,9 @@
 
 <br/>
 
-## 🛠️ Tech Stack
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🛠️ Tech%20Stack&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<br/>
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -122,8 +125,9 @@
 
 <br/>
 
-## 🚀 Featured Projects
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🚀 Featured%20Projects&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<br/>
 <details>
 <summary><b>🌤️ Weather Application</b></summary>
 <br/>
@@ -192,7 +196,8 @@ A login and signup interface built in React, focused on form handling, input val
 
 <br/>
 
-## 💼 Experience
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=💼 Experience%20&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<br/>
 
 ```
 Lead Generation Executive
@@ -204,6 +209,9 @@ Noida, Uttar Pradesh
 > ⚠️ This is a **non-technical, current professional role** and is not related to software engineering or development work.
 
 ### 📚 Software Development Learning Journey
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=📚 Software%20Development%20Learning%20Journey&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<br/>
+
 
 ![BCA Completed](https://img.shields.io/badge/-BCA%20Completed%20(2026)-6D28D9?style=flat-square)
 ![MCA In Progress](https://img.shields.io/badge/-MCA%20In%20Progress-6D28D9?style=flat-square)
