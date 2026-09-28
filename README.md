@@ -27,9 +27,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me;Hi,+I'm+Aditya+Soam+%F0%9F%91%8B" alt="About Me" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=About%20Me&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi,+I'm+Aditya+Soam+👋;BCA+Graduate+(2026)+%7C+MCA+Student;Aspiring+Java+Full+Stack+Developer" alt="About typing" />
