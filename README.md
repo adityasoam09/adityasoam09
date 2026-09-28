@@ -30,14 +30,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=About%20Me&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Hi%2C+I%27m+Aditya+Soam+%F0%9F%91%8B;BCA+Graduate+%282026%29+%7C+MCA+Student;Aspiring+Java+Full+Stack+Developer" alt="About typing" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi,+I'm+Aditya+Soam+👋;BCA+Graduate+(2026)+%7C+MCA+Student;Aspiring+Java+Full+Stack+Developer" alt="About typing" />
-</p>
-
-<p align="center">
   <b>Hi, I'm Aditya Soam 👋</b><br/>
   <i>BCA Graduate (2026) • MCA Student • Aspiring Java Full Stack Developer</i>
 </p>
