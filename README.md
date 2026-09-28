@@ -29,11 +29,31 @@
 
 ## 👨‍💻 About Me
 
-I'm *Aditya Soam, a BCA graduate (2026) currently pursuing my **MCA, with a growing focus on **Java Full Stack Development. My core interests lie in building practical, responsive web applications using **Java, React, and JavaScript, backed by solid fundamentals in **SQL* and version control with *Git/GitHub*.
+<p align="center">
+  <b>Hi, I'm Aditya Soam 👋</b><br/>
+  <i>BCA Graduate (2026) • MCA Student • Aspiring Java Full Stack Developer</i>
+</p>
 
-I enjoy working across the stack — from crafting clean, responsive frontends with React and modern CSS, to exploring backend concepts with Java and REST APIs. I'm currently deepening my backend knowledge by *learning Spring Boot*, with the goal of becoming a well-rounded Java Full Stack Developer.
+<p align="center">
+  I build clean, responsive web applications with <b>Java, React and JavaScript</b>,<br/>
+  backed by solid fundamentals in <b>SQL</b> and everyday <b>Git/GitHub</b> workflows.
+</p>
 
-I approach development with a *product-oriented mindset* — focused on writing functional, maintainable code and continuously learning new tools and technologies to build better applications.
+<p align="center">
+  Right now I'm going deeper into the backend by learning <b>Spring Boot</b> and REST APIs,<br/>
+  with the goal of becoming a well-rounded Java Full Stack Developer.
+</p>
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎨 *Frontend* | Responsive UIs with React, JavaScript, HTML5, CSS3 & Tailwind |
+| ☕ *Backend* | Java, Node.js, Express.js, REST APIs, Spring Boot (learning) |
+| 🗄️ *Database* | MySQL, MongoDB, SQL |
+| 🧠 *Mindset* | Product-oriented, always learning, focused on maintainable code |
+
+</div>
 
 <div align="center">
 
