@@ -27,7 +27,15 @@
 
 <br/>
 
-## 👨‍💻 About Me
+<h1 align="center">✨ About Me ✨</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi,+I'm+Aditya+Soam+👋;BCA+Graduate+(2026)+%7C+MCA+Student;Aspiring+Java+Full+Stack+Developer" alt="About typing" />
+</p>
 
 <p align="center">
   <b>Hi, I'm Aditya Soam 👋</b><br/>
