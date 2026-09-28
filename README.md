@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+Developer;Frontend+Developer;Building+Responsive+Web+Applications;Learning+Spring+Boot+%26+Backend+Development;MCA+Student+%7C+BCA+Graduate" alt="Typing SVG" />
 
 <br/>
-
 ![BCA](https://img.shields.io/badge/BCA-2026-6D28D9?style=for-the-badge)
 ![MCA](https://img.shields.io/badge/MCA-In%20Progress-7C3AED?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
