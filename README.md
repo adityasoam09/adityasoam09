@@ -75,7 +75,8 @@
 <br/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🛠️ Tech%20Stack&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=
+  🛠️Tech%20Stack&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🎯Open%20To&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 <br/>
