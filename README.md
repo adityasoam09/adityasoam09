@@ -73,12 +73,9 @@
 </div>
 
 <br/>
-
-
-<h3 align="center">🛠️</h3>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=Tech%20Stack&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 <br/>
+
 <br/>
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -129,7 +126,7 @@
 <br/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🚀 Featured%20Projects&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=Featured%20Projects&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 <br/>
 <details>
 <summary><b>🌤️ Weather Application</b></summary>
