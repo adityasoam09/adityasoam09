@@ -54,135 +54,49 @@ I approach development with a *product-oriented mindset* — focused on writing 
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-
-
-![Java](https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white)
-
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-5B21B6?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-### Frontend
-
-
-
-![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white)
-
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-5B21B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
-
-### Backend
-
-
-
-![Java](https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
-
-
-![Express.js](https://img.shields.io/badge/Express.js-8B5CF6?style=for-the-badge&logo=express&logoColor=white)
-
-
-
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-9333EA?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-5B21B6?style=for-the-badge&logo=springboot&logoColor=white)
-
-
-
-> Spring Boot — currently learning
-
-### Database
-
-
-
-![MySQL](https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-### Cloud, DevOps & Tooling
-
-
-
-![Git](https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-![VS Code](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
-
-
-![Postman](https://img.shields.io/badge/Postman-9333EA?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-
-![npm](https://img.shields.io/badge/npm-5B21B6?style=for-the-badge&logo=npm&logoColor=white)
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-5B21B6?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-5B21B6?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-8B5CF6?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-9333EA?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-5B21B6?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
+<p align="center"><i>Spring Boot — currently learning</i></p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3 align="center">Cloud, DevOps & Tooling</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-9333EA?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-5B21B6?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
 
 <br/>
 
