@@ -57,7 +57,7 @@
 
 <div align="center">
 
-### 🎯 Open To
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🎯Open%20To&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 ![Java Developer](https://img.shields.io/badge/-Java%20Developer-7C3AED?style=flat-square)
 ![Java Full Stack](https://img.shields.io/badge/-Java%20Full%20Stack%20Developer-7C3AED?style=flat-square)
