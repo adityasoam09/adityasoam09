@@ -250,6 +250,7 @@ In the meantime, I'm actively investing in continuous, self-directed learning th
 <br/>
 
 ## 🧩 Coding Profiles
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🧩Coding%20Profiles&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
