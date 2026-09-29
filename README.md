@@ -207,57 +207,9 @@ A login and signup interface built in React, focused on form handling, input val
 ![CodeChef](https://img.shields.io/badge/CodeChef-Coming%20Soon-9333EA?style=for-the-badge&logo=codechef&logoColor=white)
 
 </div>
-
-> Profile links will be added once available.
-
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityasoam09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&border_color=6D28D9&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoam09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&border_color=6D28D9&hide_border=false" width="40%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasoam09&theme=tokyonight&background=0d1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border=6D28D9" width="60%"/>
-
-</div>
-
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityasoam09&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7" width="90%"/>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasoam09&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adityasoam09/adityasoam09/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🎯 Current Focus
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🎯 Current%20Focus&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 ```yaml
 Learning:
