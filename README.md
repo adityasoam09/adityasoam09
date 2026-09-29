@@ -209,7 +209,7 @@ A login and signup interface built in React, focused on form handling, input val
 </div>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🎯 Current%20Focus&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🎯Current%20Focus&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 ```yaml
 Learning:
