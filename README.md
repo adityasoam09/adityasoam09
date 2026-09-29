@@ -197,59 +197,6 @@ A login and signup interface built in React, focused on form handling, input val
 > 📎 Repository links will be added here as public repos become available on [github.com/adityasoam09](https://github.com/adityasoam09).
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=💼 Experience%20&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
-<br/>
-
-```
-Lead Generation Executive
-Advotis Infotech Pvt. Ltd.
-September 2026 — Present
-Noida, Uttar Pradesh
-```
-
-> ⚠️ This is a **non-technical, current professional role** and is not related to software engineering or development work.
-
-### 📚 Software Development Learning Journey
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=📚 Software%20Development%20Learning%20Journey&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
-<br/>
-
-
-![BCA Completed](https://img.shields.io/badge/-BCA%20Completed%20(2026)-6D28D9?style=flat-square)
-![MCA In Progress](https://img.shields.io/badge/-MCA%20In%20Progress-6D28D9?style=flat-square)
-![React](https://img.shields.io/badge/-React%20Development-6D28D9?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-6D28D9?style=flat-square)
-![Java](https://img.shields.io/badge/-Java-6D28D9?style=flat-square)
-![Java Full Stack](https://img.shields.io/badge/-Java%20Full%20Stack-6D28D9?style=flat-square)
-![Git/GitHub](https://img.shields.io/badge/-Git%2FGitHub-6D28D9?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Learning%20Spring%20Boot-6D28D9?style=flat-square)
-![Backend](https://img.shields.io/badge/-Backend%20Development-6D28D9?style=flat-square)
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Milestone | Completed BCA degree (2026) |
-| Milestone | Currently pursuing MCA |
-| Learning | Actively building Java Full Stack development skills through hands-on projects |
-
-</div>
-
-<br/>
-
-## 📜 Certifications & Continuous Learning
-
-I don't currently hold formal certifications to list here. This section will be updated as I complete verified certifications in areas such as Java, Spring Boot, React, or Cloud technologies.
-
-In the meantime, I'm actively investing in continuous, self-directed learning through hands-on projects and coursework as part of my MCA studies.
-
-<br/>
-
-## 🧩 Coding Profiles
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=🧩Coding%20Profiles&fontSize=34&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
